@@ -1,13 +1,13 @@
 {
-  "name": "px2em-cli",
-  "version": "1.0.1",
+  "name": "p2ec",
+  "version": "1.0.0",
   "description": "px to em in cli",
   "main": "index.js",
   "license": "MIT",
   "author": "love1ace",
   "repository": {
     "type": "git",
-    "url": "https://github.com/love1ace/px2em-cli.git"
+    "url": "https://github.com/love1ace/p2ec.git"
   },
   "keywords": [
     "px",
@@ -19,16 +19,16 @@
     "love1ace"
   ],
   "bugs": {
-    "url": "https://github.com/love1ace/px2em-cli/issues"
+    "url": "https://github.com/love1ace/p2ec/issues"
   },
   "files": [
     "index.js",
     "README.md",
     "LICENSE"
   ],
-  "homepage": "https://github.com/love1ace/px2em-cli#readme",
+  "homepage": "https://github.com/love1ace/p2ec#readme",
   "bin": {
-    "px2em-cli": "index.js"
+    "p2ec": "index.js"
   },
   "dependencies": {},
   "devDependencies": {},

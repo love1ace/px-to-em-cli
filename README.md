@@ -1,18 +1,18 @@
-# px2em-cli
+# p2ec
 
-**px2em-cli** is a CLI tool that converts pixels (px) to em units.
+**p2ec** is a CLI tool that converts pixels (px) to em units.
 
-![npm](https://img.shields.io/npm/v/px2em-cli)
-![license](https://img.shields.io/npm/l/px2em-cli)
+![npm](https://img.shields.io/npm/v/p2ec)
+![license](https://img.shields.io/npm/l/p2ec)
 
 
 ## Quick Start
 
-Get **px2em-cli** up and running quickly!
+Get **p2ec** up and running quickly!
 
 1. **Run**:
     ```bash
-    npx px2em-cli 18
+    npx p2ec 18
     ```
 2. **Done!**
 
@@ -22,12 +22,12 @@ Get **px2em-cli** up and running quickly!
 - You can change the base font size by adding a second argument:
 
     ```bash
-    npx px2em-cli 18 18
+    npx p2ec 18 18
     ```
 
 ## Contributing
 
-We welcome contributions to **px2em-cli**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
+We welcome contributions to **p2ec**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
 
 ## License
 
