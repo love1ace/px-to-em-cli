@@ -2,8 +2,8 @@
 
 **px2em-cli** is a CLI tool that converts pixels (px) to em units.
 
-![npm](https://img.shields.io/npm/v/px2rem-cli)
-![license](https://img.shields.io/npm/l/px2rem-cli)
+![npm](https://img.shields.io/npm/v/px2em-cli)
+![license](https://img.shields.io/npm/l/px2em-cli)
 
 
 ## Quick Start
