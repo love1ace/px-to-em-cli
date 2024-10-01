@@ -1,5 +1,5 @@
 {
-  "name": "p2ec",
+  "name": "px-to-em-cli",
   "version": "1.0.0",
   "description": "px to em in cli",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "author": "love1ace",
   "repository": {
     "type": "git",
-    "url": "https://github.com/love1ace/p2ec.git"
+    "url": "https://github.com/love1ace/px-to-em-cli.git"
   },
   "keywords": [
     "px",
@@ -19,16 +19,16 @@
     "love1ace"
   ],
   "bugs": {
-    "url": "https://github.com/love1ace/p2ec/issues"
+    "url": "https://github.com/love1ace/px-to-em-cli/issues"
   },
   "files": [
     "index.js",
     "README.md",
     "LICENSE"
   ],
-  "homepage": "https://github.com/love1ace/p2ec#readme",
+  "homepage": "https://github.com/love1ace/px-to-em-cli#readme",
   "bin": {
-    "p2ec": "index.js"
+    "px-to-em-cli": "index.js"
   },
   "dependencies": {},
   "devDependencies": {},
